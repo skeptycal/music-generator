@@ -1,7 +1,7 @@
 argparse==1.2.1
 GitPython==2.1.0
 glob2==0.5
-httplib2==0.8
+httplib2==0.19.0
 imageio==2.1.2
 matplotlib==1.5.3
 MIDIUtil==1.1.3
